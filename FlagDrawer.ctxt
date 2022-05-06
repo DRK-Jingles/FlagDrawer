@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FlagDrawer()
+comment0.text=Constructor,\ sets\ up\ the\ user\ interface
+comment1.params=
+comment1.target=void\ denmarkFlag()
+comment1.text=\r\n\ The\ flag\ for\ Denmark\ is\ a\ red\ rectangle\ with\r\n\ a\ white\ cross\ over\ it.\r\n\ (alternatively,\ it\ is\ four\ red\ rectangles\ on\ a\ white\ background\!)\r\n
+comment2.params=
+comment2.target=void\ greeceFlag()
+comment2.text=\r\n\ The\ flag\ for\ Greece\ has\ blue\ and\ white\ strips,\ and\r\n\ a\ white\ cross\ on\ a\ blue\ background\ in\ the\ top\ left\ corner.\r\n\ The\ blue\ is\ a\ dark\ blue.\ \r\n
+comment3.params=
+comment3.target=void\ simplifiedMauritaniaFlag()
+comment3.text=\r\n\ The\ Mauritania\ flag\ (simplified)\ \ is\ a\ green\ background\ with\r\n\ a\ yellow\ crescent\ moon\ and\ a\ yellow\ circle.\r\n\ (The\ real\ flag\ has\ a\ 5\ pointed\ star\ in\ place\ of\ the\ circle\r\n
+comment4.params=
+comment4.target=void\ starFlag()
+comment4.text=\r\n\ Completion\:\ Six\ pointed\ Star\ on\ a\ white\ background.\r\n\ The\ lines\ should\ be\ several\ pixels\ thick.\r\n
+comment5.params=
+comment5.target=void\ pacmanFlag()
+comment5.text=\r\n\ Completion\:\ pacman\r\n\ A\ yellow\ pacman\ on\ a\ black\ background\ chasing\ white,\ red,\ and\ green\ dots.\r\n
+comment6.params=
+comment6.target=void\ israelFlag()
+comment6.text=\r\n\ Challenge\:\ The\ flag\ of\ Israel\r\n\ Two\ horizontal\ blue\ stripes\ and\ a\ 6\ pointed\ star\ on\ a\ white\ background\r\n
+comment7.params=
+comment7.target=void\ seychellesFlag()
+comment7.text=\ \r\n\ \ Challenge\:\ the\ flag\ of\ the\ Seychelles\r\n\ \ Radiating\ triangles.\r\n
+numComments=8
